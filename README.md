@@ -1,6 +1,14 @@
 # atividade-projeto-agil
 Objetivo: desenhar como o time vai garantir qualidade e entrega com previsibilidade conectando PDCA/Kaizen e maturidade (evidencias leves).
 
+### Alunos
+
+- Henrique Maia Cardosa
+- João Miguel de Castro Menna
+- Ricardo Gabriel Fialho Santos
+
+Observações: fizemos juntos em chamada, mas apenas eu (joao-menna) commitei
+
 # Convenção de commits
 
 \<tipo\>(\<escopo\>): \<mensagem curta\>
